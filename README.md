@@ -41,32 +41,8 @@ that drive lung injury during transplantation.
 -   Potential therapeutic targets for reducing lung injury in
     transplantation.
 
-## 💻 Usage
-
-1.  Clone the repository
-
-    ``` bash
-    git clone https://github.com/yourusername/single-cell-lung-transplant.git
-    cd single-cell-lung-transplant
-    ```
-
-2.  Install dependencies (e.g., Seurat for R or Scanpy for Python).
-
-    ``` bash
-    pip install scanpy anndata matplotlib seaborn
-    ```
-
-3.  Run the analysis scripts provided in the `scripts/` directory.
-
-## 📂 Data
-
-Raw and processed data are available upon request or from
-controlled-access repositories (e.g., GEO, dbGaP).
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for
-details.
+## 📂 Data  
+Raw and processed data are available from the **Gene Expression Omnibus (GEO)** under accession number [GSE220797](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220797).
 
 ## ✨ Acknowledgements
 
